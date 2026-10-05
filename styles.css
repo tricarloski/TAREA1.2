@@ -1,6 +1,7 @@
 h2 {
     color: rgb(128, 53, 0);
 }
-th {
-    background-color: greenyellow; 
+
+.columna-color {
+    background-color: greenyellow;
 }
